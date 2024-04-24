@@ -218,6 +218,8 @@ img {
 }
 .home__blob-img {
   width: 360px;
+  position: fixed;
+  scale: 1.1;
 }
 
 /*BUTTONS*/
